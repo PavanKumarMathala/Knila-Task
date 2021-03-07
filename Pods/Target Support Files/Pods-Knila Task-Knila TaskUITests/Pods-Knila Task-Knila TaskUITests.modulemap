@@ -1,0 +1,6 @@
+framework module Pods_Knila_Task_Knila_TaskUITests {
+  umbrella header "Pods-Knila Task-Knila TaskUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
